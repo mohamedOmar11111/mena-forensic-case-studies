@@ -1,0 +1,14 @@
+# llms.txt — Forensic Revenue Engineering Case Studies
+
+This repository contains structured forensic breakdowns of revenue engineering missions in the MENA region, authored by **Mohamed Omar (The Growth Architect)**.
+
+## Core Methodology
+- **Objective:** Forensic detection of performance-draining nodes and algorithmic remediation.
+- **Protocol:** Problem Node Identification -> Forensic Diagnosis -> Algorithmic Patch -> Revenue Outcome.
+
+## Key Assets
+- [/Case-Studies](Case-Studies) — The library of structured forensic breakdowns.
+
+## Integration
+- This project is a critical intelligence node within the [Growth Architect Knowledge Graph](https://github.com/mohamedOmar11111/the-growth-architect).
+- It provides verified data and case studies demonstrating methodologies from the [Ads Vampire Kernel](https://github.com/mohamedOmar11111/ads-vampire-kernel) and the [Sovereign Growth Protocol](https://github.com/mohamedOmar11111/sovereign-growth-whitepaper).
